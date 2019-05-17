@@ -1,0 +1,1490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="43c6db17-9970-40f2-a07f-e20870ce449d" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="CompareUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/doing/compare/CompareUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="22" column="20" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JsonTree.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/doing/compare/test/JsonTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="655">
+              <caret line="190" column="0" lean-forward="false" selection-start-line="190" selection-start-column="0" selection-end-line="190" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#337#338#0" expanded="true" />
+                <element signature="e#383#384#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JsonArray.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/gson-2.5.jar!/com/google/gson/JsonArray.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1500">
+              <caret line="83" column="18" lean-forward="false" selection-start-line="83" selection-start-column="18" selection-end-line="83" selection-end-column="18" />
+              <folding>
+                <marker date="1556005946816" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1556005946816" expanded="false" signature="139:267" ph="..." />
+                <marker date="1556005946816" expanded="true" signature="441:448" ph="{}" />
+                <marker date="1556005946816" expanded="true" signature="475:747" ph="{...}" />
+                <marker date="1556005946816" expanded="false" signature="782:793" ph=" { " />
+                <marker date="1556005946816" expanded="false" signature="871:877" ph=" }" />
+                <marker date="1556005946816" expanded="true" signature="920:1024" ph="{...}" />
+                <marker date="1556005946816" expanded="true" signature="1061:1159" ph="{...}" />
+                <marker date="1556005946816" expanded="true" signature="1196:1294" ph="{...}" />
+                <marker date="1556005946816" expanded="true" signature="1337:1463" ph="{...}" />
+                <marker date="1556005946816" expanded="false" signature="1504:1515" ph=" { " />
+                <marker date="1556005946816" expanded="false" signature="1552:1558" ph=" }" />
+                <marker date="1556005946816" expanded="false" signature="1618:1629" ph=" { " />
+                <marker date="1556005946816" expanded="false" signature="1683:1689" ph=" }" />
+                <marker date="1556005946816" expanded="false" signature="1737:1748" ph=" { " />
+                <marker date="1556005946816" expanded="false" signature="1785:1791" ph=" }" />
+                <marker date="1556005946816" expanded="false" signature="1833:1844" ph=" { " />
+                <marker date="1556005946816" expanded="false" signature="1892:1898" ph=" }" />
+                <marker date="1556005946816" expanded="false" signature="1948:1959" ph=" { " />
+                <marker date="1556005946816" expanded="false" signature="1998:2004" ph=" }" />
+                <marker date="1556005946816" expanded="false" signature="2027:2038" ph=" { " />
+                <marker date="1556005946816" expanded="false" signature="2066:2072" ph=" }" />
+                <marker date="1556005946816" expanded="false" signature="2117:2128" ph=" { " />
+                <marker date="1556005946816" expanded="false" signature="2160:2166" ph=" }" />
+                <marker date="1556005946816" expanded="false" signature="2201:2212" ph=" { " />
+                <marker date="1556005946816" expanded="false" signature="2253:2259" ph=" }" />
+                <marker date="1556005946816" expanded="true" signature="2293:2485" ph="{...}" />
+                <marker date="1556005946816" expanded="true" signature="2519:2711" ph="{...}" />
+                <marker date="1556005946816" expanded="true" signature="2745:2937" ph="{...}" />
+                <marker date="1556005946816" expanded="true" signature="2979:3175" ph="{...}" />
+                <marker date="1556005946816" expanded="true" signature="3217:3413" ph="{...}" />
+                <marker date="1556005946816" expanded="true" signature="3445:3636" ph="{...}" />
+                <marker date="1556005946816" expanded="true" signature="3666:3856" ph="{...}" />
+                <marker date="1556005946816" expanded="true" signature="3884:4073" ph="{...}" />
+                <marker date="1556005946816" expanded="true" signature="4103:4293" ph="{...}" />
+                <marker date="1556005946816" expanded="true" signature="4328:4523" ph="{...}" />
+                <marker date="1556005946816" expanded="true" signature="4555:4746" ph="{...}" />
+                <marker date="1556005946816" expanded="true" signature="4782:4975" ph="{...}" />
+                <marker date="1556005946816" expanded="true" signature="5013:5121" ph="{...}" />
+                <marker date="1556005946816" expanded="false" signature="5148:5159" ph=" { " />
+                <marker date="1556005946816" expanded="false" signature="5191:5197" ph=" }" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JsonElement.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/gson-2.5.jar!/com/google/gson/JsonElement.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="18" column="36" lean-forward="false" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+              <folding>
+                <marker date="1556005946816" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1556005946816" expanded="false" signature="139:329" ph="..." />
+                <marker date="1556005946816" expanded="true" signature="392:399" ph="{}" />
+                <marker date="1556005946816" expanded="false" signature="471:482" ph=" { " />
+                <marker date="1556005946816" expanded="false" signature="515:521" ph=" }" />
+                <marker date="1556005946816" expanded="false" signature="556:567" ph=" { " />
+                <marker date="1556005946816" expanded="false" signature="601:607" ph=" }" />
+                <marker date="1556005946816" expanded="false" signature="645:656" ph=" { " />
+                <marker date="1556005946816" expanded="false" signature="693:699" ph=" }" />
+                <marker date="1556005946816" expanded="false" signature="732:743" ph=" { " />
+                <marker date="1556005946816" expanded="false" signature="775:781" ph=" }" />
+                <marker date="1556005946816" expanded="true" signature="823:1004" ph="{...}" />
+                <marker date="1556005946816" expanded="true" signature="1044:1222" ph="{...}" />
+                <marker date="1556005946816" expanded="true" signature="1270:1460" ph="{...}" />
+                <marker date="1556005946816" expanded="true" signature="1498:1673" ph="{...}" />
+                <marker date="1556005946816" expanded="false" signature="1708:1719" ph=" { " />
+                <marker date="1556005946816" expanded="false" signature="1792:1798" ph=" }" />
+                <marker date="1556005946816" expanded="false" signature="1833:1844" ph=" { " />
+                <marker date="1556005946816" expanded="false" signature="1917:1923" ph=" }" />
+                <marker date="1556005946816" expanded="false" signature="1956:1967" ph=" { " />
+                <marker date="1556005946816" expanded="false" signature="2040:2046" ph=" }" />
+                <marker date="1556005946816" expanded="false" signature="2079:2090" ph=" { " />
+                <marker date="1556005946816" expanded="false" signature="2163:2169" ph=" }" />
+                <marker date="1556005946816" expanded="false" signature="2202:2213" ph=" { " />
+                <marker date="1556005946816" expanded="false" signature="2286:2292" ph=" }" />
+                <marker date="1556005946816" expanded="false" signature="2323:2334" ph=" { " />
+                <marker date="1556005946816" expanded="false" signature="2407:2413" ph=" }" />
+                <marker date="1556005946816" expanded="false" signature="2442:2453" ph=" { " />
+                <marker date="1556005946816" expanded="false" signature="2526:2532" ph=" }" />
+                <marker date="1556005946816" expanded="false" signature="2559:2570" ph=" { " />
+                <marker date="1556005946816" expanded="false" signature="2643:2649" ph=" }" />
+                <marker date="1556005946816" expanded="false" signature="2678:2689" ph=" { " />
+                <marker date="1556005946816" expanded="false" signature="2762:2768" ph=" }" />
+                <marker date="1556005946816" expanded="false" signature="2802:2813" ph=" { " />
+                <marker date="1556005946816" expanded="false" signature="2886:2892" ph=" }" />
+                <marker date="1556005946816" expanded="false" signature="2933:2944" ph=" { " />
+                <marker date="1556005946816" expanded="false" signature="3017:3023" ph=" }" />
+                <marker date="1556005946816" expanded="false" signature="3064:3075" ph=" { " />
+                <marker date="1556005946816" expanded="false" signature="3148:3154" ph=" }" />
+                <marker date="1556005946816" expanded="false" signature="3185:3196" ph=" { " />
+                <marker date="1556005946816" expanded="false" signature="3269:3275" ph=" }" />
+                <marker date="1556005946816" expanded="true" signature="3306:3674" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TreeHelper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/doing/compare/TreeHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3025">
+              <caret line="121" column="38" lean-forward="false" selection-start-line="121" selection-start-column="38" selection-end-line="121" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#4166#4167#0" expanded="true" />
+                <element signature="e#4205#4206#0" expanded="true" />
+                <element signature="e#4238#4239#0" expanded="true" />
+                <element signature="e#4265#4266#0" expanded="true" />
+                <element signature="e#4307#4308#0" expanded="true" />
+                <element signature="e#4339#4340#0" expanded="true" />
+                <element signature="e#4386#4387#0" expanded="true" />
+                <element signature="e#4421#4422#0" expanded="true" />
+                <element signature="e#4485#4486#0" expanded="true" />
+                <element signature="e#4533#4534#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OrganizationEntity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/doing/compare/OrganizationEntity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+              <folding>
+                <element signature="e#165#166#0" expanded="true" />
+                <element signature="e#196#197#0" expanded="true" />
+                <element signature="e#240#241#0" expanded="true" />
+                <element signature="e#280#281#0" expanded="true" />
+                <element signature="e#308#309#0" expanded="true" />
+                <element signature="e#336#337#0" expanded="true" />
+                <element signature="e#374#375#0" expanded="true" />
+                <element signature="e#408#409#0" expanded="true" />
+                <element signature="e#441#442#0" expanded="true" />
+                <element signature="e#471#472#0" expanded="true" />
+                <element signature="e#516#517#0" expanded="true" />
+                <element signature="e#554#555#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JSONParser.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/doing/compare/JSONParser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TreeNode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/doing/compare/TreeNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3975">
+              <caret line="159" column="0" lean-forward="false" selection-start-line="159" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#362#363#0" expanded="true" />
+                <element signature="e#393#394#0" expanded="true" />
+                <element signature="e#1055#1056#0" expanded="true" />
+                <element signature="e#1082#1083#0" expanded="true" />
+                <element signature="e#1197#1207#0" expanded="true" />
+                <element signature="e#1596#1606#0" expanded="true" />
+                <element signature="e#2120#2121#0" expanded="true" />
+                <element signature="e#2152#2153#0" expanded="true" />
+                <element signature="e#4547#4548#0" expanded="true" />
+                <element signature="e#4590#4591#0" expanded="true" />
+                <element signature="e#4628#4629#0" expanded="true" />
+                <element signature="e#4687#4688#0" expanded="true" />
+                <element signature="e#4745#4746#0" expanded="true" />
+                <element signature="e#4787#4788#0" expanded="true" />
+                <element signature="e#4819#4820#0" expanded="true" />
+                <element signature="e#4850#4851#0" expanded="true" />
+                <element signature="e#4895#4896#0" expanded="true" />
+                <element signature="e#4935#4936#0" expanded="true" />
+                <element signature="e#4965#4966#0" expanded="true" />
+                <element signature="e#4994#4995#0" expanded="true" />
+                <element signature="e#5035#5036#0" expanded="true" />
+                <element signature="e#5071#5072#0" expanded="true" />
+                <element signature="e#5110#5111#0" expanded="true" />
+                <element signature="e#5143#5144#0" expanded="true" />
+                <element signature="e#5197#5198#0" expanded="true" />
+                <element signature="e#5241#5242#0" expanded="true" />
+                <element signature="e#5276#5277#0" expanded="true" />
+                <element signature="e#5307#5308#0" expanded="true" />
+                <element signature="e#5355#5356#0" expanded="true" />
+                <element signature="e#5395#5396#0" expanded="true" />
+                <element signature="e#5425#5426#0" expanded="true" />
+                <element signature="e#5451#5452#0" expanded="true" />
+                <element signature="e#5489#5490#0" expanded="true" />
+                <element signature="e#5519#5520#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Intersection.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/doing/compare/submodule/Intersection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Equivalence.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/doing/compare/submodule/Equivalence.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/doing/compare/Comparator.java" />
+        <option value="$PROJECT_DIR$/src/com/doing/compare/submodule/Supplementary.java" />
+        <option value="$PROJECT_DIR$/src/com/doing/compare/submodule/Subset.java" />
+        <option value="$PROJECT_DIR$/src/com/doing/compare/submodule/Intersection.java" />
+        <option value="$PROJECT_DIR$/src/com/doing/compare/JSONParser.java" />
+        <option value="$PROJECT_DIR$/src/com/doing/compare/CompareType.java" />
+        <option value="$PROJECT_DIR$/src/com/doing/compare/Supplementary.java" />
+        <option value="$PROJECT_DIR$/src/com/doing/compare/Equal.java" />
+        <option value="$PROJECT_DIR$/src/com/doing/compare/CompareResult.java" />
+        <option value="$PROJECT_DIR$/src/com/doing/compare/AbstractCompare.java" />
+        <option value="$PROJECT_DIR$/src/com/doing/compare/submodule/Equal.java" />
+        <option value="$PROJECT_DIR$/src/com/doing/compare/submodule/Equivalence.java" />
+        <option value="$PROJECT_DIR$/src/com/doing/compare/CompareUtil.java" />
+        <option value="$PROJECT_DIR$/src/com/doing/compare/TreeHelper.java" />
+        <option value="$PROJECT_DIR$/src/com/doing/compare/OrganizationEntity.java" />
+        <option value="$PROJECT_DIR$/src/com/doing/compare/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/com/doing/compare/test/JsonToTree.java" />
+        <option value="$PROJECT_DIR$/src/com/doing/compare/test/JsonTree.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="960" />
+    <option name="height" value="1032" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JsonTreeComparator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JsonTreeComparator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JsonTreeComparator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JsonTreeComparator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JsonTreeComparator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JsonTreeComparator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="compare" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JsonTreeComparator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JsonTreeComparator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="compare" type="462c0819:PsiDirectoryNode" />
+              <item name="submodule" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JsonTreeComparator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JsonTreeComparator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="compare" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.doing.compare" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="JsonTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.doing.compare.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.doing.compare.test.JsonTree" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ObjectCompare" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.JsonTree" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43c6db17-9970-40f2-a07f-e20870ce449d" name="Default" comment="" />
+      <created>1556002669259</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556002669259</updated>
+      <workItem from="1556002674089" duration="11289000" />
+      <workItem from="1557970785221" duration="8106000" />
+      <workItem from="1557991654664" duration="7512000" />
+      <workItem from="1558059473906" duration="13520000" />
+      <workItem from="1558083609018" duration="15000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="40442000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33484676" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291714" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26476908" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.55051076" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/doing/compare/test/JsonTree.java</url>
+          <line>110</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="10" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/doing/compare/submodule/Intersection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/doing/compare/submodule/Equivalence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/doing/compare/test/JsonTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4750">
+          <caret line="190" column="0" lean-forward="true" selection-start-line="190" selection-start-column="0" selection-end-line="190" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/doing/compare/CompareUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="22" column="20" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/gson-2.5.jar!/com/google/gson/JsonArray.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1500">
+          <caret line="83" column="18" lean-forward="false" selection-start-line="83" selection-start-column="18" selection-end-line="83" selection-end-column="18" />
+          <folding>
+            <marker date="1556005946816" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1556005946816" expanded="false" signature="139:267" ph="..." />
+            <marker date="1556005946816" expanded="true" signature="441:448" ph="{}" />
+            <marker date="1556005946816" expanded="true" signature="475:747" ph="{...}" />
+            <marker date="1556005946816" expanded="false" signature="782:793" ph=" { " />
+            <marker date="1556005946816" expanded="false" signature="871:877" ph=" }" />
+            <marker date="1556005946816" expanded="true" signature="920:1024" ph="{...}" />
+            <marker date="1556005946816" expanded="true" signature="1061:1159" ph="{...}" />
+            <marker date="1556005946816" expanded="true" signature="1196:1294" ph="{...}" />
+            <marker date="1556005946816" expanded="true" signature="1337:1463" ph="{...}" />
+            <marker date="1556005946816" expanded="false" signature="1504:1515" ph=" { " />
+            <marker date="1556005946816" expanded="false" signature="1552:1558" ph=" }" />
+            <marker date="1556005946816" expanded="false" signature="1618:1629" ph=" { " />
+            <marker date="1556005946816" expanded="false" signature="1683:1689" ph=" }" />
+            <marker date="1556005946816" expanded="false" signature="1737:1748" ph=" { " />
+            <marker date="1556005946816" expanded="false" signature="1785:1791" ph=" }" />
+            <marker date="1556005946816" expanded="false" signature="1833:1844" ph=" { " />
+            <marker date="1556005946816" expanded="false" signature="1892:1898" ph=" }" />
+            <marker date="1556005946816" expanded="false" signature="1948:1959" ph=" { " />
+            <marker date="1556005946816" expanded="false" signature="1998:2004" ph=" }" />
+            <marker date="1556005946816" expanded="false" signature="2027:2038" ph=" { " />
+            <marker date="1556005946816" expanded="false" signature="2066:2072" ph=" }" />
+            <marker date="1556005946816" expanded="false" signature="2117:2128" ph=" { " />
+            <marker date="1556005946816" expanded="false" signature="2160:2166" ph=" }" />
+            <marker date="1556005946816" expanded="false" signature="2201:2212" ph=" { " />
+            <marker date="1556005946816" expanded="false" signature="2253:2259" ph=" }" />
+            <marker date="1556005946816" expanded="true" signature="2293:2485" ph="{...}" />
+            <marker date="1556005946816" expanded="true" signature="2519:2711" ph="{...}" />
+            <marker date="1556005946816" expanded="true" signature="2745:2937" ph="{...}" />
+            <marker date="1556005946816" expanded="true" signature="2979:3175" ph="{...}" />
+            <marker date="1556005946816" expanded="true" signature="3217:3413" ph="{...}" />
+            <marker date="1556005946816" expanded="true" signature="3445:3636" ph="{...}" />
+            <marker date="1556005946816" expanded="true" signature="3666:3856" ph="{...}" />
+            <marker date="1556005946816" expanded="true" signature="3884:4073" ph="{...}" />
+            <marker date="1556005946816" expanded="true" signature="4103:4293" ph="{...}" />
+            <marker date="1556005946816" expanded="true" signature="4328:4523" ph="{...}" />
+            <marker date="1556005946816" expanded="true" signature="4555:4746" ph="{...}" />
+            <marker date="1556005946816" expanded="true" signature="4782:4975" ph="{...}" />
+            <marker date="1556005946816" expanded="true" signature="5013:5121" ph="{...}" />
+            <marker date="1556005946816" expanded="false" signature="5148:5159" ph=" { " />
+            <marker date="1556005946816" expanded="false" signature="5191:5197" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/gson-2.5.jar!/com/google/gson/JsonElement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+          <folding>
+            <marker date="1556005946816" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1556005946816" expanded="false" signature="139:329" ph="..." />
+            <marker date="1556005946816" expanded="true" signature="392:399" ph="{}" />
+            <marker date="1556005946816" expanded="false" signature="471:482" ph=" { " />
+            <marker date="1556005946816" expanded="false" signature="515:521" ph=" }" />
+            <marker date="1556005946816" expanded="false" signature="556:567" ph=" { " />
+            <marker date="1556005946816" expanded="false" signature="601:607" ph=" }" />
+            <marker date="1556005946816" expanded="false" signature="645:656" ph=" { " />
+            <marker date="1556005946816" expanded="false" signature="693:699" ph=" }" />
+            <marker date="1556005946816" expanded="false" signature="732:743" ph=" { " />
+            <marker date="1556005946816" expanded="false" signature="775:781" ph=" }" />
+            <marker date="1556005946816" expanded="true" signature="823:1004" ph="{...}" />
+            <marker date="1556005946816" expanded="true" signature="1044:1222" ph="{...}" />
+            <marker date="1556005946816" expanded="true" signature="1270:1460" ph="{...}" />
+            <marker date="1556005946816" expanded="true" signature="1498:1673" ph="{...}" />
+            <marker date="1556005946816" expanded="false" signature="1708:1719" ph=" { " />
+            <marker date="1556005946816" expanded="false" signature="1792:1798" ph=" }" />
+            <marker date="1556005946816" expanded="false" signature="1833:1844" ph=" { " />
+            <marker date="1556005946816" expanded="false" signature="1917:1923" ph=" }" />
+            <marker date="1556005946816" expanded="false" signature="1956:1967" ph=" { " />
+            <marker date="1556005946816" expanded="false" signature="2040:2046" ph=" }" />
+            <marker date="1556005946816" expanded="false" signature="2079:2090" ph=" { " />
+            <marker date="1556005946816" expanded="false" signature="2163:2169" ph=" }" />
+            <marker date="1556005946816" expanded="false" signature="2202:2213" ph=" { " />
+            <marker date="1556005946816" expanded="false" signature="2286:2292" ph=" }" />
+            <marker date="1556005946816" expanded="false" signature="2323:2334" ph=" { " />
+            <marker date="1556005946816" expanded="false" signature="2407:2413" ph=" }" />
+            <marker date="1556005946816" expanded="false" signature="2442:2453" ph=" { " />
+            <marker date="1556005946816" expanded="false" signature="2526:2532" ph=" }" />
+            <marker date="1556005946816" expanded="false" signature="2559:2570" ph=" { " />
+            <marker date="1556005946816" expanded="false" signature="2643:2649" ph=" }" />
+            <marker date="1556005946816" expanded="false" signature="2678:2689" ph=" { " />
+            <marker date="1556005946816" expanded="false" signature="2762:2768" ph=" }" />
+            <marker date="1556005946816" expanded="false" signature="2802:2813" ph=" { " />
+            <marker date="1556005946816" expanded="false" signature="2886:2892" ph=" }" />
+            <marker date="1556005946816" expanded="false" signature="2933:2944" ph=" { " />
+            <marker date="1556005946816" expanded="false" signature="3017:3023" ph=" }" />
+            <marker date="1556005946816" expanded="false" signature="3064:3075" ph=" { " />
+            <marker date="1556005946816" expanded="false" signature="3148:3154" ph=" }" />
+            <marker date="1556005946816" expanded="false" signature="3185:3196" ph=" { " />
+            <marker date="1556005946816" expanded="false" signature="3269:3275" ph=" }" />
+            <marker date="1556005946816" expanded="true" signature="3306:3674" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/doing/compare/TreeHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2950">
+          <caret line="121" column="38" lean-forward="false" selection-start-line="121" selection-start-column="38" selection-end-line="121" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4166#4167#0" expanded="true" />
+            <element signature="e#4205#4206#0" expanded="true" />
+            <element signature="e#4238#4239#0" expanded="true" />
+            <element signature="e#4265#4266#0" expanded="true" />
+            <element signature="e#4307#4308#0" expanded="true" />
+            <element signature="e#4339#4340#0" expanded="true" />
+            <element signature="e#4386#4387#0" expanded="true" />
+            <element signature="e#4421#4422#0" expanded="true" />
+            <element signature="e#4485#4486#0" expanded="true" />
+            <element signature="e#4533#4534#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/doing/compare/OrganizationEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding>
+            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+            <element signature="e#471#472#0" expanded="true" />
+            <element signature="e#516#517#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/doing/compare/JSONParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/doing/compare/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4225">
+          <caret line="191" column="20" lean-forward="false" selection-start-line="191" selection-start-column="20" selection-end-line="191" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+            <element signature="e#1055#1056#0" expanded="true" />
+            <element signature="e#1082#1083#0" expanded="true" />
+            <element signature="e#1197#1207#0" expanded="true" />
+            <element signature="e#1596#1606#0" expanded="true" />
+            <element signature="e#2120#2121#0" expanded="true" />
+            <element signature="e#2152#2153#0" expanded="true" />
+            <element signature="e#4547#4548#0" expanded="true" />
+            <element signature="e#4590#4591#0" expanded="true" />
+            <element signature="e#4628#4629#0" expanded="true" />
+            <element signature="e#4687#4688#0" expanded="true" />
+            <element signature="e#4745#4746#0" expanded="true" />
+            <element signature="e#4787#4788#0" expanded="true" />
+            <element signature="e#4819#4820#0" expanded="true" />
+            <element signature="e#4850#4851#0" expanded="true" />
+            <element signature="e#4895#4896#0" expanded="true" />
+            <element signature="e#4935#4936#0" expanded="true" />
+            <element signature="e#4965#4966#0" expanded="true" />
+            <element signature="e#4994#4995#0" expanded="true" />
+            <element signature="e#5035#5036#0" expanded="true" />
+            <element signature="e#5071#5072#0" expanded="true" />
+            <element signature="e#5110#5111#0" expanded="true" />
+            <element signature="e#5143#5144#0" expanded="true" />
+            <element signature="e#5197#5198#0" expanded="true" />
+            <element signature="e#5241#5242#0" expanded="true" />
+            <element signature="e#5276#5277#0" expanded="true" />
+            <element signature="e#5307#5308#0" expanded="true" />
+            <element signature="e#5355#5356#0" expanded="true" />
+            <element signature="e#5395#5396#0" expanded="true" />
+            <element signature="e#5425#5426#0" expanded="true" />
+            <element signature="e#5451#5452#0" expanded="true" />
+            <element signature="e#5489#5490#0" expanded="true" />
+            <element signature="e#5519#5520#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/doing/compare/submodule/Intersection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/doing/compare/submodule/Equivalence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/doing/compare/test/JsonTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1600">
+          <caret line="72" column="13" lean-forward="true" selection-start-line="72" selection-start-column="13" selection-end-line="72" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/doing/compare/CompareUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="22" column="20" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/doing/compare/TreeHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2950">
+          <caret line="121" column="38" lean-forward="true" selection-start-line="121" selection-start-column="38" selection-end-line="121" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4166#4167#0" expanded="true" />
+            <element signature="e#4205#4206#0" expanded="true" />
+            <element signature="e#4238#4239#0" expanded="true" />
+            <element signature="e#4265#4266#0" expanded="true" />
+            <element signature="e#4307#4308#0" expanded="true" />
+            <element signature="e#4339#4340#0" expanded="true" />
+            <element signature="e#4386#4387#0" expanded="true" />
+            <element signature="e#4421#4422#0" expanded="true" />
+            <element signature="e#4485#4486#0" expanded="true" />
+            <element signature="e#4533#4534#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/doing/compare/OrganizationEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding>
+            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+            <element signature="e#471#472#0" expanded="true" />
+            <element signature="e#516#517#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/doing/compare/JSONParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/doing/compare/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4225">
+          <caret line="191" column="20" lean-forward="false" selection-start-line="191" selection-start-column="20" selection-end-line="191" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+            <element signature="e#1055#1056#0" expanded="true" />
+            <element signature="e#1082#1083#0" expanded="true" />
+            <element signature="e#1197#1207#0" expanded="true" />
+            <element signature="e#1596#1606#0" expanded="true" />
+            <element signature="e#2120#2121#0" expanded="true" />
+            <element signature="e#2152#2153#0" expanded="true" />
+            <element signature="e#4547#4548#0" expanded="true" />
+            <element signature="e#4590#4591#0" expanded="true" />
+            <element signature="e#4628#4629#0" expanded="true" />
+            <element signature="e#4687#4688#0" expanded="true" />
+            <element signature="e#4745#4746#0" expanded="true" />
+            <element signature="e#4787#4788#0" expanded="true" />
+            <element signature="e#4819#4820#0" expanded="true" />
+            <element signature="e#4850#4851#0" expanded="true" />
+            <element signature="e#4895#4896#0" expanded="true" />
+            <element signature="e#4935#4936#0" expanded="true" />
+            <element signature="e#4965#4966#0" expanded="true" />
+            <element signature="e#4994#4995#0" expanded="true" />
+            <element signature="e#5035#5036#0" expanded="true" />
+            <element signature="e#5071#5072#0" expanded="true" />
+            <element signature="e#5110#5111#0" expanded="true" />
+            <element signature="e#5143#5144#0" expanded="true" />
+            <element signature="e#5197#5198#0" expanded="true" />
+            <element signature="e#5241#5242#0" expanded="true" />
+            <element signature="e#5276#5277#0" expanded="true" />
+            <element signature="e#5307#5308#0" expanded="true" />
+            <element signature="e#5355#5356#0" expanded="true" />
+            <element signature="e#5395#5396#0" expanded="true" />
+            <element signature="e#5425#5426#0" expanded="true" />
+            <element signature="e#5451#5452#0" expanded="true" />
+            <element signature="e#5489#5490#0" expanded="true" />
+            <element signature="e#5519#5520#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/doing/compare/submodule/Supplementary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/doing/compare/submodule/Subset.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/doing/compare/submodule/Intersection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/doing/compare/submodule/Equivalence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/doing/compare/test/JsonTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1025">
+          <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/doing/compare/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/doing/compare/AbstractCompare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="28" lean-forward="false" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/doing/compare/CompareResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/doing/compare/CompareUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/doing/compare/JSONParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/doing/compare/CompareType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Money/Java/JDK/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="48" column="6" lean-forward="false" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/doing/compare/submodule/Equal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/doing/compare/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.doing.compare">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.doing.compare</OriginalElement>
+          <nodes>
+            <node x="" y="">com.doing.compare.Equal</node>
+            <node x="" y="">com.doing.compare.Comparator</node>
+            <node x="" y="">com.doing.compare.JSONParser</node>
+            <node x="" y="">com.doing.compare.Subset</node>
+            <node x="" y="">com.doing.compare.CompareResult</node>
+            <node x="" y="">com.doing.compare.Intersection</node>
+            <node x="" y="">com.doing.compare.CompareType</node>
+            <node x="" y="">com.doing.compare.Equivalence</node>
+            <node x="" y="">com.doing.compare.Supplementary</node>
+            <node x="" y="">com.doing.compare.AbstractCompare</node>
+            <node x="" y="">com.doing.compare.CompareUtil</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="395.0" y="218.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram/D:/1NJUST/Project/ObjectCompare/src/com/doing/compare">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/src/com/doing/compare</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="240.0" y="240.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Money/Java/JDK/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="48" column="6" lean-forward="false" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/doing/compare/CompareType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/doing/compare/CompareResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/doing/compare/AbstractCompare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="7" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/doing/compare/submodule/Equal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/doing/compare/submodule/Supplementary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/doing/compare/submodule/Subset.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/doing/compare/submodule/Intersection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/doing/compare/submodule/Equivalence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/doing/compare/CompareUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" column="20" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/doing/compare/JSONParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/doing/compare/OrganizationEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding>
+            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+            <element signature="e#471#472#0" expanded="true" />
+            <element signature="e#516#517#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/doing/compare/TreeHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3025">
+          <caret line="121" column="38" lean-forward="false" selection-start-line="121" selection-start-column="38" selection-end-line="121" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4166#4167#0" expanded="true" />
+            <element signature="e#4205#4206#0" expanded="true" />
+            <element signature="e#4238#4239#0" expanded="true" />
+            <element signature="e#4265#4266#0" expanded="true" />
+            <element signature="e#4307#4308#0" expanded="true" />
+            <element signature="e#4339#4340#0" expanded="true" />
+            <element signature="e#4386#4387#0" expanded="true" />
+            <element signature="e#4421#4422#0" expanded="true" />
+            <element signature="e#4485#4486#0" expanded="true" />
+            <element signature="e#4533#4534#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/gson-2.5.jar!/com/google/gson/JsonElement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="18" column="36" lean-forward="false" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+          <folding>
+            <marker date="1556005946816" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1556005946816" expanded="false" signature="139:329" ph="..." />
+            <marker date="1556005946816" expanded="true" signature="392:399" ph="{}" />
+            <marker date="1556005946816" expanded="false" signature="471:482" ph=" { " />
+            <marker date="1556005946816" expanded="false" signature="515:521" ph=" }" />
+            <marker date="1556005946816" expanded="false" signature="556:567" ph=" { " />
+            <marker date="1556005946816" expanded="false" signature="601:607" ph=" }" />
+            <marker date="1556005946816" expanded="false" signature="645:656" ph=" { " />
+            <marker date="1556005946816" expanded="false" signature="693:699" ph=" }" />
+            <marker date="1556005946816" expanded="false" signature="732:743" ph=" { " />
+            <marker date="1556005946816" expanded="false" signature="775:781" ph=" }" />
+            <marker date="1556005946816" expanded="true" signature="823:1004" ph="{...}" />
+            <marker date="1556005946816" expanded="true" signature="1044:1222" ph="{...}" />
+            <marker date="1556005946816" expanded="true" signature="1270:1460" ph="{...}" />
+            <marker date="1556005946816" expanded="true" signature="1498:1673" ph="{...}" />
+            <marker date="1556005946816" expanded="false" signature="1708:1719" ph=" { " />
+            <marker date="1556005946816" expanded="false" signature="1792:1798" ph=" }" />
+            <marker date="1556005946816" expanded="false" signature="1833:1844" ph=" { " />
+            <marker date="1556005946816" expanded="false" signature="1917:1923" ph=" }" />
+            <marker date="1556005946816" expanded="false" signature="1956:1967" ph=" { " />
+            <marker date="1556005946816" expanded="false" signature="2040:2046" ph=" }" />
+            <marker date="1556005946816" expanded="false" signature="2079:2090" ph=" { " />
+            <marker date="1556005946816" expanded="false" signature="2163:2169" ph=" }" />
+            <marker date="1556005946816" expanded="false" signature="2202:2213" ph=" { " />
+            <marker date="1556005946816" expanded="false" signature="2286:2292" ph=" }" />
+            <marker date="1556005946816" expanded="false" signature="2323:2334" ph=" { " />
+            <marker date="1556005946816" expanded="false" signature="2407:2413" ph=" }" />
+            <marker date="1556005946816" expanded="false" signature="2442:2453" ph=" { " />
+            <marker date="1556005946816" expanded="false" signature="2526:2532" ph=" }" />
+            <marker date="1556005946816" expanded="false" signature="2559:2570" ph=" { " />
+            <marker date="1556005946816" expanded="false" signature="2643:2649" ph=" }" />
+            <marker date="1556005946816" expanded="false" signature="2678:2689" ph=" { " />
+            <marker date="1556005946816" expanded="false" signature="2762:2768" ph=" }" />
+            <marker date="1556005946816" expanded="false" signature="2802:2813" ph=" { " />
+            <marker date="1556005946816" expanded="false" signature="2886:2892" ph=" }" />
+            <marker date="1556005946816" expanded="false" signature="2933:2944" ph=" { " />
+            <marker date="1556005946816" expanded="false" signature="3017:3023" ph=" }" />
+            <marker date="1556005946816" expanded="false" signature="3064:3075" ph=" { " />
+            <marker date="1556005946816" expanded="false" signature="3148:3154" ph=" }" />
+            <marker date="1556005946816" expanded="false" signature="3185:3196" ph=" { " />
+            <marker date="1556005946816" expanded="false" signature="3269:3275" ph=" }" />
+            <marker date="1556005946816" expanded="true" signature="3306:3674" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/gson-2.5.jar!/com/google/gson/JsonArray.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1500">
+          <caret line="83" column="18" lean-forward="false" selection-start-line="83" selection-start-column="18" selection-end-line="83" selection-end-column="18" />
+          <folding>
+            <marker date="1556005946816" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1556005946816" expanded="false" signature="139:267" ph="..." />
+            <marker date="1556005946816" expanded="true" signature="441:448" ph="{}" />
+            <marker date="1556005946816" expanded="true" signature="475:747" ph="{...}" />
+            <marker date="1556005946816" expanded="false" signature="782:793" ph=" { " />
+            <marker date="1556005946816" expanded="false" signature="871:877" ph=" }" />
+            <marker date="1556005946816" expanded="true" signature="920:1024" ph="{...}" />
+            <marker date="1556005946816" expanded="true" signature="1061:1159" ph="{...}" />
+            <marker date="1556005946816" expanded="true" signature="1196:1294" ph="{...}" />
+            <marker date="1556005946816" expanded="true" signature="1337:1463" ph="{...}" />
+            <marker date="1556005946816" expanded="false" signature="1504:1515" ph=" { " />
+            <marker date="1556005946816" expanded="false" signature="1552:1558" ph=" }" />
+            <marker date="1556005946816" expanded="false" signature="1618:1629" ph=" { " />
+            <marker date="1556005946816" expanded="false" signature="1683:1689" ph=" }" />
+            <marker date="1556005946816" expanded="false" signature="1737:1748" ph=" { " />
+            <marker date="1556005946816" expanded="false" signature="1785:1791" ph=" }" />
+            <marker date="1556005946816" expanded="false" signature="1833:1844" ph=" { " />
+            <marker date="1556005946816" expanded="false" signature="1892:1898" ph=" }" />
+            <marker date="1556005946816" expanded="false" signature="1948:1959" ph=" { " />
+            <marker date="1556005946816" expanded="false" signature="1998:2004" ph=" }" />
+            <marker date="1556005946816" expanded="false" signature="2027:2038" ph=" { " />
+            <marker date="1556005946816" expanded="false" signature="2066:2072" ph=" }" />
+            <marker date="1556005946816" expanded="false" signature="2117:2128" ph=" { " />
+            <marker date="1556005946816" expanded="false" signature="2160:2166" ph=" }" />
+            <marker date="1556005946816" expanded="false" signature="2201:2212" ph=" { " />
+            <marker date="1556005946816" expanded="false" signature="2253:2259" ph=" }" />
+            <marker date="1556005946816" expanded="true" signature="2293:2485" ph="{...}" />
+            <marker date="1556005946816" expanded="true" signature="2519:2711" ph="{...}" />
+            <marker date="1556005946816" expanded="true" signature="2745:2937" ph="{...}" />
+            <marker date="1556005946816" expanded="true" signature="2979:3175" ph="{...}" />
+            <marker date="1556005946816" expanded="true" signature="3217:3413" ph="{...}" />
+            <marker date="1556005946816" expanded="true" signature="3445:3636" ph="{...}" />
+            <marker date="1556005946816" expanded="true" signature="3666:3856" ph="{...}" />
+            <marker date="1556005946816" expanded="true" signature="3884:4073" ph="{...}" />
+            <marker date="1556005946816" expanded="true" signature="4103:4293" ph="{...}" />
+            <marker date="1556005946816" expanded="true" signature="4328:4523" ph="{...}" />
+            <marker date="1556005946816" expanded="true" signature="4555:4746" ph="{...}" />
+            <marker date="1556005946816" expanded="true" signature="4782:4975" ph="{...}" />
+            <marker date="1556005946816" expanded="true" signature="5013:5121" ph="{...}" />
+            <marker date="1556005946816" expanded="false" signature="5148:5159" ph=" { " />
+            <marker date="1556005946816" expanded="false" signature="5191:5197" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/doing/compare/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3975">
+          <caret line="159" column="0" lean-forward="false" selection-start-line="159" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+            <element signature="e#1055#1056#0" expanded="true" />
+            <element signature="e#1082#1083#0" expanded="true" />
+            <element signature="e#1197#1207#0" expanded="true" />
+            <element signature="e#1596#1606#0" expanded="true" />
+            <element signature="e#2120#2121#0" expanded="true" />
+            <element signature="e#2152#2153#0" expanded="true" />
+            <element signature="e#4547#4548#0" expanded="true" />
+            <element signature="e#4590#4591#0" expanded="true" />
+            <element signature="e#4628#4629#0" expanded="true" />
+            <element signature="e#4687#4688#0" expanded="true" />
+            <element signature="e#4745#4746#0" expanded="true" />
+            <element signature="e#4787#4788#0" expanded="true" />
+            <element signature="e#4819#4820#0" expanded="true" />
+            <element signature="e#4850#4851#0" expanded="true" />
+            <element signature="e#4895#4896#0" expanded="true" />
+            <element signature="e#4935#4936#0" expanded="true" />
+            <element signature="e#4965#4966#0" expanded="true" />
+            <element signature="e#4994#4995#0" expanded="true" />
+            <element signature="e#5035#5036#0" expanded="true" />
+            <element signature="e#5071#5072#0" expanded="true" />
+            <element signature="e#5110#5111#0" expanded="true" />
+            <element signature="e#5143#5144#0" expanded="true" />
+            <element signature="e#5197#5198#0" expanded="true" />
+            <element signature="e#5241#5242#0" expanded="true" />
+            <element signature="e#5276#5277#0" expanded="true" />
+            <element signature="e#5307#5308#0" expanded="true" />
+            <element signature="e#5355#5356#0" expanded="true" />
+            <element signature="e#5395#5396#0" expanded="true" />
+            <element signature="e#5425#5426#0" expanded="true" />
+            <element signature="e#5451#5452#0" expanded="true" />
+            <element signature="e#5489#5490#0" expanded="true" />
+            <element signature="e#5519#5520#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/doing/compare/test/JsonTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="655">
+          <caret line="190" column="0" lean-forward="false" selection-start-line="190" selection-start-column="0" selection-end-line="190" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ObjectCompare</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

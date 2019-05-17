@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.doing.compare</OriginalElement>
+  <nodes>
+    <node x="0.0" y="318.0">com.doing.compare.Equal</node>
+    <node x="311.7123015873017" y="136.0">com.doing.compare.Comparator</node>
+    <node x="190.0" y="399.0">com.doing.compare.JSONParser</node>
+    <node x="118.0" y="318.0">com.doing.compare.Subset</node>
+    <node x="188.75" y="0.0">com.doing.compare.CompareResult</node>
+    <node x="465.04166666666674" y="318.0">com.doing.compare.Intersection</node>
+    <node x="370.75" y="0.0">com.doing.compare.CompareType</node>
+    <node x="623.0416666666667" y="318.0">com.doing.compare.Equivalence</node>
+    <node x="257.2916666666667" y="318.0">com.doing.compare.Supplementary</node>
+    <node x="238.7994047619049" y="222.0">com.doing.compare.AbstractCompare</node>
+    <node x="0.0" y="399.0">com.doing.compare.CompareUtil</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.doing.compare.Supplementary" target="com.doing.compare.CompareType">
+      <point x="53.66666666666666" y="-18.0" />
+      <point x="391.45833333333337" y="298.0" />
+      <point x="479.8373015873017" y="298.0" />
+      <point x="479.8373015873017" y="116.0" />
+      <point x="460.58333333333337" y="116.0" />
+      <point x="12.833333333333371" y="18.0" />
+    </edge>
+    <edge source="com.doing.compare.Equal" target="com.doing.compare.AbstractCompare">
+      <point x="32.66666666666663" y="-18.0" />
+      <point x="81.66666666666663" y="288.0" />
+      <point x="256.4994047619049" y="288.0" />
+      <point x="-70.80000000000001" y="18.0" />
+    </edge>
+    <edge source="com.doing.compare.Intersection" target="com.doing.compare.CompareType">
+      <point x="46.0" y="-18.0" />
+      <point x="580.0416666666667" y="298.0" />
+      <point x="572.8712301587301" y="298.0" />
+      <point x="572.8712301587301" y="76.0" />
+      <point x="486.25" y="76.0" />
+      <point x="38.5" y="18.0" />
+    </edge>
+    <edge source="com.doing.compare.Equivalence" target="com.doing.compare.CompareResult">
+      <point x="0.0" y="-18.0" />
+      <point x="693.0416666666667" y="298.0" />
+      <point x="703.5212301587301" y="298.0" />
+      <point x="703.5212301587301" y="66.0" />
+      <point x="339.17857142857144" y="66.0" />
+      <point x="69.42857142857144" y="18.0" />
+    </edge>
+    <edge source="com.doing.compare.Subset" target="com.doing.compare.CompareType">
+      <point x="2.8421709430404007E-14" y="-18.0" />
+      <point x="170.50000000000003" y="278.0" />
+      <point x="163.94107142857155" y="278.0" />
+      <point x="163.94107142857155" y="116.0" />
+      <point x="409.25" y="116.0" />
+      <point x="-38.5" y="18.0" />
+    </edge>
+    <edge source="com.doing.compare.Intersection" target="com.doing.compare.CompareResult">
+      <point x="0.0" y="-18.0" />
+      <point x="534.0416666666667" y="298.0" />
+      <point x="544.5212301587301" y="298.0" />
+      <point x="544.5212301587301" y="86.0" />
+      <point x="316.03571428571433" y="86.0" />
+      <point x="46.285714285714334" y="18.0" />
+    </edge>
+    <edge source="com.doing.compare.AbstractCompare" target="com.doing.compare.CompareResult">
+      <point x="-44.25" y="-18.0" />
+      <point x="283.0494047619049" y="197.0" />
+      <point x="286.7994047619049" y="197.0" />
+      <point x="286.7994047619049" y="96.0" />
+      <point x="269.75" y="96.0" />
+      <point x="0.0" y="18.0" />
+    </edge>
+    <edge source="com.doing.compare.Equivalence" target="com.doing.compare.CompareType">
+      <point x="46.66666666666663" y="-18.0" />
+      <point x="739.7083333333333" y="298.0" />
+      <point x="732.2045634920635" y="298.0" />
+      <point x="732.2045634920635" y="56.0" />
+      <point x="511.9166666666667" y="56.0" />
+      <point x="64.16666666666669" y="18.0" />
+    </edge>
+    <edge source="com.doing.compare.Comparator" target="com.doing.compare.CompareResult">
+      <point x="-35.25" y="-18.0" />
+      <point x="346.9623015873017" y="96.0" />
+      <point x="292.89285714285717" y="96.0" />
+      <point x="23.142857142857167" y="18.0" />
+    </edge>
+    <edge source="com.doing.compare.Supplementary" target="com.doing.compare.AbstractCompare">
+      <point x="0.0" y="-18.0" />
+      <point x="337.7916666666667" y="298.0" />
+      <point x="327.2994047619049" y="298.0" />
+      <point x="0.0" y="18.0" />
+    </edge>
+    <edge source="com.doing.compare.Comparator" target="com.doing.compare.CompareType">
+      <point x="35.25" y="-18.0" />
+      <point x="417.4623015873017" y="116.0" />
+      <point x="434.9166666666667" y="116.0" />
+      <point x="-12.833333333333314" y="18.0" />
+    </edge>
+    <edge source="com.doing.compare.Intersection" target="com.doing.compare.AbstractCompare">
+      <point x="-46.0" y="-18.0" />
+      <point x="488.04166666666674" y="288.0" />
+      <point x="362.69940476190493" y="288.0" />
+      <point x="35.400000000000034" y="18.0" />
+    </edge>
+    <edge source="com.doing.compare.AbstractCompare" target="com.doing.compare.Comparator">
+      <point x="44.25" y="-18.0" />
+      <point x="371.5494047619049" y="197.0" />
+      <point x="382.2123015873017" y="197.0" />
+      <point x="0.0" y="18.0" />
+    </edge>
+    <edge source="com.doing.compare.Subset" target="com.doing.compare.AbstractCompare">
+      <point x="35.00000000000003" y="-18.0" />
+      <point x="205.50000000000003" y="298.0" />
+      <point x="291.8994047619049" y="298.0" />
+      <point x="-35.39999999999998" y="18.0" />
+    </edge>
+    <edge source="com.doing.compare.Equal" target="com.doing.compare.CompareResult">
+      <point x="-32.66666666666663" y="-18.0" />
+      <point x="16.33333333333337" y="298.0" />
+      <point x="8.299404761904896" y="298.0" />
+      <point x="8.299404761904896" y="76.0" />
+      <point x="200.32142857142856" y="76.0" />
+      <point x="-69.42857142857144" y="18.0" />
+    </edge>
+    <edge source="com.doing.compare.Equal" target="com.doing.compare.CompareType">
+      <point x="0.0" y="-18.0" />
+      <point x="49.0" y="298.0" />
+      <point x="42.44107142857155" y="298.0" />
+      <point x="42.44107142857155" y="106.0" />
+      <point x="383.5833333333333" y="106.0" />
+      <point x="-64.16666666666669" y="18.0" />
+    </edge>
+    <edge source="com.doing.compare.Equivalence" target="com.doing.compare.AbstractCompare">
+      <point x="-46.66666666666663" y="-18.0" />
+      <point x="646.375" y="278.0" />
+      <point x="398.0994047619049" y="278.0" />
+      <point x="70.80000000000001" y="18.0" />
+    </edge>
+    <edge source="com.doing.compare.Subset" target="com.doing.compare.CompareResult">
+      <point x="-34.99999999999997" y="-18.0" />
+      <point x="135.50000000000003" y="278.0" />
+      <point x="128.6327380952382" y="278.0" />
+      <point x="128.6327380952382" y="86.0" />
+      <point x="223.46428571428572" y="86.0" />
+      <point x="-46.28571428571428" y="18.0" />
+    </edge>
+    <edge source="com.doing.compare.Supplementary" target="com.doing.compare.CompareResult">
+      <point x="-53.66666666666666" y="-18.0" />
+      <point x="284.125" y="278.0" />
+      <point x="221.21230158730168" y="278.0" />
+      <point x="221.21230158730168" y="96.0" />
+      <point x="246.6071428571429" y="96.0" />
+      <point x="-23.14285714285711" y="18.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="395.0" y="217.5" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
