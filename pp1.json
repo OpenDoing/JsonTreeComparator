@@ -1,0 +1,23 @@
+{
+  "msg":"成功",
+  "data":
+    {
+      "cases":[
+        {
+          "oid":7,
+          "hospital":"南京鼓楼医院",
+          "visit_time":"2018-02-01",
+          "description":"糖尿病5余年，手脚像针刺般疼痛。"
+        }
+      ],
+      "id":1,
+      "profile":{
+        "pid":15,
+        "name":"张三",
+        "sex":"男",
+        "birth":"1983-05-14",
+        "address":"江苏省南京市玄武区"
+      }
+    },
+  "code":0
+}

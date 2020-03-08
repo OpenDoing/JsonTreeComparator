@@ -1,5 +1,6 @@
 package com.doing.compare;
 
+import com.doing.compare.test.JsonTree;
 import com.google.gson.Gson;
 import com.google.gson.JsonObject;
 
@@ -26,5 +27,9 @@ public class CompareUtil {
     int getJsonArrayLength(Gson array){
 
         return array.toJson(array).length();
+    }
+
+    public JsonTree jsonToTree(JsonObject jsonObject){
+        return new JsonTree();
     }
 }
